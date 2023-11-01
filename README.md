@@ -1,7 +1,5 @@
 # 💰 Financial Analysis & Web Traffic | e-commerce
 
-"In this project, we conducted a comprehensive analysis of an e-commerce company specializing in the online retail of physical products. Our analysis addressed a range of critical business inquiries, both  financial and marketing."
-
 # Project Overview:
 
 This project involves a comprehensive analysis of an e-commerce company, "Happy Bear", specializing in the sale of captivating teddy bears. The company currently offers four different stuffed animal models. The analysis addresses various key business questions, encompassing both financial and marketing aspects.
