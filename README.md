@@ -41,7 +41,7 @@ The original data is in CSV format, consisting of four separate files: Orders, P
 
 # Conclusions:
 
-Sales Analysis
+# Sales Analysis
 Within our dataset, the highest average sales ticket was achieved in February 2013, with an average ticket value of €51.59, followed by January 2013 with an average ticket value of €51.20. In 2012, the average ticket value was €49.99.
 
 This trend aligns with the fact that in 2012, we only had one product, and in 2013, a second, more expensive product was introduced.
@@ -54,7 +54,7 @@ For the year 2012, with only the "Cuddly Bear" available, gross sales amounted t
 
 The top three months in terms of gross sales were November 2012 with €30,893.82, December 2012 with €25,294.94, and January 2013 with €19,966.10 in gross sales.
 
-Web Traffic Analysis
+# Web Traffic Analysis
 The highest number of sessions originated from ad g_ad_1 posted on www.gsearch.com, accounting for 49,978 sessions out of a total of 70,000. Of the 70,000 sessions, there were 62,224 unique users. Some users had more than one session.
 
 Breaking down users and sessions by source:
