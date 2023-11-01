@@ -59,9 +59,9 @@ The highest number of sessions originated from ad g_ad_1 posted on www.gsearch.c
 
 Breaking down users and sessions by source:
 
-5,899 users with 7,248 sessions with an unknown source.
-9,808 users with 9,898 sessions from source www.bsearch.com.
-51,118 users with 52,845 sessions from source www.gsearch.com.
+ * 5,899 users with 7,248 sessions with an unknown source.
+ * 9,808 users with 9,898 sessions from source www.bsearch.com.
+ * 51,118 users with 52,845 sessions from source www.gsearch.com.
 
 The advertising source that resulted in the highest sales was www.gsearch.com, generating a total of €135,602.97 in gross sales. The second most successful source of advertising was from an unknown origin, with sales totaling €43,531.33. Finally, €30,903.85 in gross sales were attributed to advertising on www.bsearch.com.
 
